@@ -41,7 +41,7 @@ nav#menu > a:hover {
     color: white;
     background-color: blue;
     border-radius: 10px;
-    transition: 0.3s;
+    transition: .3s;
 }
 
 h1.hello{
