@@ -90,6 +90,7 @@ img#perfil {
     max-width: 361px;
     border-radius: 300px;
     height: auto;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.49);
 }
 
 #linkedin{
